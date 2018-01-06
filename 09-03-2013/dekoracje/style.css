@@ -1,0 +1,78 @@
+body{
+        background-color: #fefbf3;
+        color: 555555;
+        margin: 0;
+        padding: 0;
+        background-image:url(img/tlo.gif);
+        background-repeat: repeat-x;
+}
+
+a { 
+        color:#996600; 
+        text-decoration:none;
+}
+
+
+p{
+	color: 555555;
+	text-align: justify;
+	padding: 10px 0px 20px 0px;
+}
+
+p img{
+	margin: 25px;
+}
+
+a:hover {
+        color: Black; 
+        text-decoration:none; 
+}
+
+
+.stopka{
+        font-family: Tahoma, Verdana, Geneva,  Trebuchet MS, Arial, Sans-serif;
+        font-size: 11px;
+        color: #999999;
+
+
+}
+
+
+.content{
+        padding:5px 5px 5px 25px;
+		font-size: 10px;
+		font-family: Verdana, Tahoma;
+		color: #999999;
+	  
+}
+
+table.lista td {
+		font-size: 12px;
+		padding: 25px;
+		text-align: center;
+}
+
+.tb{
+		font-size: 13px;
+		font-family: Tahoma, Verdana ;
+		color: #555555;
+		line-height:165%;
+}
+
+ul#obr {
+	list-style-image: url(img/liobr.gif);
+	vertical-align: middle;
+}  
+
+
+ul#lib {
+	list-style-image: url(img/lib.gif);
+	vertical-align: middle;
+}  
+
+li {
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	height: 40px;
+	padding:0px 0px 0px 15px;
+}  

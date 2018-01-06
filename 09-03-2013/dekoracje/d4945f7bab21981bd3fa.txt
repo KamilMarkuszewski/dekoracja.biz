@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<links s1="15" s2="1" s21="8" s3="5" s4="226" s5="1" s6="0" s7="v" s8="0" s9="" s10="1" s11="92d660ffaf9e2b60051a63aa57c3686b" st="1">
+<l>
+	<u>www.hiszpania24.com</u>
+	<t>wczasy Hiszpania</t>
+	<a>wczasy Hiszpania</a>
+	<d>wczasy w Hiszpanii</d>
+</l>
+<l>
+	<u>www.kancelariadrabik.pl</u>
+	<t>Windykacja Zielona Góra</t>
+	<a>Windykacja Zielona Góra</a>
+	<d>Windykacja Zielona Góra</d>
+</l>
+<l>
+	<u>www.babybart.pl</u>
+	<t>sylvanian families</t>
+	<a>sylvanian families</a>
+	<d>sylvanian families</d>
+</l>
+<l>
+	<u>www.mega-tech.com.pl/wiecej_programy_do_faktur.html</u>
+	<t>program do wystawiania faktur</t>
+	<a>program do wystawiania faktur</a>
+	<d>program do wystawiania faktur</d>
+</l>
+<l>
+	<u>www.traveligo.pl/x.php/1,563/Grecja-spotkanie-z-bogami-Olimpu.html</u>
+	<t>Grecja wakacje</t>
+	<a>wakacje w grecji</a>
+	<d>grecja wczasy</d>
+</l>
+<l>
+	<u>www.gowork.pl/strony_gowork,39</u>
+	<t>nauka angielskiego</t>
+	<a>nauka angielskiego</a>
+</l>
+<l>
+	<u>elinks.pl</u>
+	<t>Darmowe ogłoszenia -elinks.pl</t>
+	<a s="b">Darmowe ogłoszenia -elinks.pl</a>
+</l>
+<l>
+	<u>www.dobre-ziola.pl/zostan,dystrybutorem.html</u>
+	<t>akuna</t>
+	<a>akuna</a>
+</l>
+<l>
+	<u>www.alcok.com</u>
+	<t>best lasik in town</t>
+	<a>bladeless lasik</a>
+</l>
+<l>
+	<u w="435068">www.komfortsnu.pl/lateksowe-c-3_21.html</u>
+	<t>Materace lateksowe Kraków</t>
+	<a>Materace lateksowe Kraków</a>
+</l>
+<l>
+	<u>www.algomedia.pl</u>
+	<t>pozycjonowanie</t>
+	<a>pozycjonowanie stron</a>
+</l>
+<l>
+	<u>www.nieruchomosci-az.poznan.pl</u>
+	<t>domy</t>
+	<a>nieruchomości poznań</a>
+</l>
+<l>
+	<u>www.gieldarowerowa.pl/</u>
+	<t>rowery miejskie</t>
+	<a>rowery</a>
+</l>
+<l>
+	<u>www.poland.as/kolonie-obozy-mlodziezowe</u>
+	<t>obozy</t>
+	<a>obozy</a>
+</l>
+<l>
+	<u>www.megapower.pl/olimp-m-7.html</u>
+	<t>odżywki olimp</t>
+	<a>odżywki olimp</a>
+</l>
+<l>
+	<u>www.jpg.pl</u>
+	<t>Prywatne zdjęcia</t>
+	<a>zdjęcia</a>
+</l>
+<l>
+	<u>www.moje-przedszkole.pl</u>
+	<t>Ogólnopolska baza przedszkoli</t>
+	<a>baza przedszkoli</a>
+</l>
+<l>
+	<u>www.ateko.pl</u>
+	<t>kalendarze autorskie</t>
+	<a>kalendarze autorskie</a>
+</l>
+<l>
+	<u>www.traveligo.pl/x.php/1,951/Egipt.html</u>
+	<t>Egipt</t>
+	<a>Egipt</a>
+</l>
+<l>
+	<u>www.pijmnie.pl</u>
+	<t>alveo</t>
+	<a>alveo</a>
+</l>
+<l>
+	<u>lokaty.open.pl</u>
+	<t>tutaj</t>
+	<a>lokata bankowa</a>
+</l>
+<l>
+	<u>www.hydropol.org</u>
+	<t>Mechanika siłowa</t>
+	<a>regeneracja pomp hydraulicznych</a>
+</l>
+<l>
+	<u>www.8log.pl</u>
+	<t>Darmowe dodatki na bloga</t>
+	<a>dodatki na bloga</a>
+</l>
+<l>
+	<u>www.open.pl/pozyczki_hipoteczne.html</u>
+	<t>zobacz</t>
+	<a>tanie pożyczki hipoteczne</a>
+</l>
+<l>
+	<u>www.pinsonsales.com</u>
+	<t>buy calling cards get</t>
+	<a>calling card</a>
+</l>
+<l>
+	<u>www.sauny.snk.pl/</u>
+	<t>Sauna dla Ciebie</t>
+	<a>Sauny</a>
+</l>
+<l>
+	<u>www.open.pl/kredyty-i-pozyczki/kredyty_konsolidacyjne.html</u>
+	<t>klik</t>
+	<a>tani kredyt konsolidacyjny</a>
+</l>
+<l>
+	<u>gadzeter.pl</u>
+	<t>prezenty - gadzeter.pl</t>
+	<a s="b">Prezenty</a>
+</l>
+<l>
+	<u>www.wsc.edu.pl/</u>
+	<t>szkoły angielskiego warszawa</t>
+	<a>szkoła języków obcych warszawa</a>
+</l>
+<l>
+	<u>mobile-english.pl/kontakt/aleksandrow</u>
+	<t>angielski Aleksandrów</t>
+	<a>angielski Aleksandrów</a>
+</l>
+<l>
+	<u>www.pinsonsales.com</u>
+	<t>cheap india phone card</t>
+	<a>india calling card</a>
+</l>
+<l>
+	<u>www.woj-mot.pl</u>
+	<t>Szkoła jazdy piotrków</t>
+	<a>Szkoła jazdy piotrków</a>
+</l>
+<l>
+	<u>www.wycenaokien.pl</u>
+	<t>okna Gorzów</t>
+	<a>okna Gorzów</a>
+</l>
+<l>
+	<u>www.forumy.pl</u>
+	<t>darmowe fora</t>
+	<a>darmowe fora</a>
+</l>
+<l>
+	<u>www.phonecardmile.com</u>
+	<t>buy cheap phone cards</t>
+	<a>international calling cards</a>
+</l>
+<l>
+	<u>www.hot.jpg.pl</u>
+	<t>fotki</t>
+	<a>fotki</a>
+</l>
+<l>
+	<u>www.dobre-ziola.pl/slowniczek,l,luszczyca.html</u>
+	<t>łuszczyca</t>
+	<a>łuszczyca</a>
+</l>
+<l>
+	<u>www.opony.mototu.pl</u>
+	<t>Opony Zimowe</t>
+	<a>Opony Zimowe</a>
+</l>
+<l>
+	<u>www.sklep.gaucho.pl</u>
+	<t>Yerba Mate</t>
+	<a s="b">Yerba Mate</a>
+</l>
+<l>
+	<u>www.komfortsnu.pl</u>
+	<t>materace warszawa</t>
+	<a s="b">materace warszawa</a>
+</l>
+<l>
+	<u>www.projektydomowdrewnianych.pl</u>
+	<t>projekty domów drewnianych</t>
+	<a>projekty domów drewnianych</a>
+</l>
+<l>
+	<u>mobile-english.pl/business/index.php</u>
+	<t>angielski dla firm</t>
+	<a>angielski dla firm</a>
+</l>
+<l>
+	<u>www.cena-wody.pl</u>
+	<t>cena wody i ścieków</t>
+	<a s="b">cena wody i ścieków</a>
+</l>
+<l>
+	<u>mobile-english.pl/cennik/index.php?co=cennik&amp;link=30</u>
+	<t>angielski Piotrków Trybunalski</t>
+	<a>angielski Piotrków Trybunalski</a>
+</l>
+<l>
+	<u>mobile-english.pl/cennik/index.php?co=cennik&amp;link=10</u>
+	<t>angielski bielsko-biała</t>
+	<a>angielski bielsko-biała</a>
+</l>
+<l>
+	<u>www.pinsonsales.com</u>
+	<t>buy cheap phone card</t>
+	<a s="b">african dream phone card</a>
+</l>
+<l>
+	<u>gryonline.poszkole.pl</u>
+	<t>gry</t>
+	<a>GRY ONLINE</a>
+</l>
+<l>
+	<u>www.korpex.edu.pl</u>
+	<t>Praca magisterska</t>
+	<a>Praca magisterska</a>
+</l>
+<l>
+	<u>www.phonecardsmile.com/phone_card_to/United_States.html</u>
+	<t>usa phone card</t>
+	<a>usa phone card</a>
+</l>
+<l>
+	<u>www.kukorowski.pl</u>
+	<t>Producent schodów</t>
+	<a>schody drewniane</a>
+</l>
+<l>
+	<u>gry-online.poszkole.pl</u>
+	<t>gry dla dziewczyn ubieranki</t>
+	<a>Gry dla dziewczyn</a>
+</l>
+<l>
+	<u>www.saladlaciebie.pl</u>
+	<t>wesele</t>
+	<a>wesele</a>
+</l>
+<l>
+	<u>www.dobre-ziola.pl/ziola.html</u>
+	<t>zioła ziola</t>
+	<a>zioła</a>
+</l>
+<l>
+	<u>www.nastolatka.net</u>
+	<t>nastolatki</t>
+	<a>nastolatki</a>
+</l>
+<l>
+	<u>www.gotowe-domy.pl</u>
+	<t>domy na sprzedaż</t>
+	<a>domy na sprzedaż</a>
+</l>
+<l>
+	<u>www.shisha-portal.pl</u>
+	<t>Fajka wodna Portal - Shisha</t>
+	<a>fajka wodna</a>
+</l>
+<l>
+	<u>www.angielskizdojazdem.pl</u>
+	<t>Angielski Warszawa</t>
+	<a>Angielski Warszawa</a>
+</l>
+<l>
+	<u>www.livemecz.pl</u>
+	<t>sportowe</t>
+	<a>wyniki na żywo</a>
+</l>
+<l>
+	<u>www.dicto-logopedia.pl/</u>
+	<t>logopedia warszawa</t>
+	<a>logopedia warszawa</a>
+</l>
+<l>
+	<u>www.batna-wykladziny.pl</u>
+	<t>Wykładziny PCV</t>
+	<a>wykładziny pcv</a>
+</l>
+<l>
+	<u>www.open.pl</u>
+	<t>tutaj</t>
+	<a>doradcy kredytowi</a>
+</l>
+<l>
+	<u>www.friko.pl/poczta.html</u>
+	<t>darmowa poczta</t>
+	<a>darmowa poczta</a>
+</l>
+<l>
+	<u>www.tabubar.pl</u>
+	<t>Bez BIK</t>
+	<a>Bez BIK</a>
+</l>
+<l>
+	<u>www.zafriko.pl</u>
+	<t>tworzenie stron www</t>
+	<a>tworzenie stron www</a>
+</l>
+<l>
+	<u>www.capslock.pl</u>
+	<t>Komputery</t>
+	<a>Komputery</a>
+</l>
+<l>
+	<u>www.pinsonsales.com</u>
+	<t>get cheap interantional</t>
+	<a>phone cards</a>
+</l>
+<l>
+	<u>www.gotowe-domy.pl</u>
+	<t>projekty domów</t>
+	<a>projekty domów</a>
+</l>
+<l>
+	<u>www.pinsonsale.com</u>
+	<t>phone card</t>
+	<a>phone card</a>
+</l>
+<l>
+	<u>www.phonecardmile.com</u>
+	<t>reliance india call</t>
+	<a>reliance india call</a>
+</l>
+<l>
+	<u>presell.der.pl/2010/04/28/wakacje-w-turcji/</u>
+	<t>last minute Turcja</t>
+	<a>last minute Turcja</a>
+</l>
+<l>
+	<u>kulturystyka.com.pl</u>
+	<t>Kulturystyka serwis</t>
+	<a>Kulturystyka</a>
+</l>
+<l>
+	<u>www.yerbamatestore.pl</u>
+	<t>Yerba Mate Store</t>
+	<a>yerba mate</a>
+</l>
+<l>
+	<u>www.kancelariawielopole.pl</u>
+	<t>kancelaria prawna kraków</t>
+	<a>kancelaria prawna kraków</a>
+</l>
+<l>
+	<u>sympatia.onet.pl</u>
+	<t>Anonse z fotkami</t>
+	<a>Foto randka</a>
+</l>
+<l>
+	<u>www.gryprzygodowe.com.pl</u>
+	<t>Gry Przygodowe</t>
+	<a>Gry Przygodowe</a>
+</l>
+<l>
+	<u>www.projektybudynkowgospodarczych.pl</u>
+	<t>projekty domów</t>
+	<a>projekty domów</a>
+</l>
+<l>
+	<u>gramy.forumy.pl/patche-do-gry-crysis-t3.html</u>
+	<t>crisis patch</t>
+	<a>crisis patch</a>
+</l>
+<l>
+	<u>www.angielskizdojazdem.pl</u>
+	<t>Angielski Wrocław</t>
+	<a>Angielski Wrocław</a>
+</l>
+<l>
+	<u>www.open.pl/kredyty-i-pozyczki/kredyty_mieszkaniowe.html</u>
+	<t>tutaj</t>
+	<a>kredyt mieszkaniowy</a>
+</l>
+<l>
+	<u>www.open.pl/kredyty-i-pozyczki/kredyty_mieszkaniowe.html</u>
+	<t>kliknij</t>
+	<a>kredyty na mieszkanie</a>
+</l>
+<l>
+	<u>www.talento.pl/</u>
+	<t>dotacje dla przedsiębiorstw</t>
+	<a>studium wykonalności</a>
+</l>
+<l>
+	<u>www.tabubar.pl</u>
+	<t>Kredyt bez BIK</t>
+	<a>Kredyt bez BIK</a>
+</l>
+<l>
+	<u w="165036">www.gabinet-med.pl</u>
+	<t>borelioza wrocław</t>
+	<a>borelioza wrocław</a>
+	<d></d>
+</l>
+<l>
+	<u w="825712">reybud.com.pl/index.php?option=com_content&amp;task=view&amp;id=36&amp;Itemid=56</u>
+	<t>Drzwi zewnętrzne Chełm</t>
+	<a>Drzwi zewnętrzne Chełm</a>
+	<d>Drzwi zewnętrzne Chełm</d>
+</l>
+<l>
+	<u w="825712">www.wika.pl/products,3703879871945476183,BaletJazz,0,0,2.html</u>
+	<t>baletki</t>
+	<a>baletki</a>
+	<d>baletki</d>
+</l>
+<l>
+	<u w="165036">autoline.com.pl/s/maszyny-komunalne-smieciarka--c14tk2260.html</u>
+	<t>Śmieciarki</t>
+	<a>śmieciarki</a>
+	<d></d>
+</l>
+<l>
+	<u w="909905">manuloc.pl/pl/wynajem/</u>
+	<t>wózki widłowe wynajem</t>
+	<a>wózki widłowe wynajem</a>
+	<d>wózki widłowe wynajem</d>
+</l>
+<l>
+	<u w="825712">www.maszyny-stolarskie.net/Szlifierki/Szlifierki_uniwersalne/1.html</u>
+	<t>szlifierk uniwersalne</t>
+	<a bt="Używana " at="">szlifierka uniwersalna</a>
+	<d>szlifierka uniwersalna</d>
+</l>
+<l>
+	<u w="825712">niedzielnaewangelia.pl/category/ewangelia/</u>
+	<t>Ewangelia</t>
+	<a>Ewangelia</a>
+	<d>Ewangelia</d>
+</l>
+<l>
+	<u w="825241">www.splendore.pl/</u>
+	<t>kosmetyki do włosów</t>
+	<a>kosmetyki do włosów</a>
+	<d>kosmetyki do włosów</d>
+</l>
+<l>
+	<u w="909905">www.overtee.pl/telewizor-led/panasonic-tx-l42e30e.html</u>
+	<t>PANASONIC TX-L42E30E</t>
+	<a>PANASONIC TX-L42E30E</a>
+	<d>Cena PANASONIC TX-L42E30E</d>
+</l>
+<l>
+	<u w="067570">www.domline.pl/category/projekty-domow-szkieletowych</u>
+	<t>Projekty domów jednorodzinnych w szkielecie</t>
+	<a>projekty szkieletowe</a>
+	<d></d>
+</l>
+<l>
+	<u w="825712">www.overtee.pl/chlodziarka/electrolux-ern-29801.html</u>
+	<t>ELECTROLUX ERN 29801</t>
+	<a>ELECTROLUX ERN 29801</a>
+	<d>Cena ELECTROLUX ERN 29801</d>
+</l>
+<l>
+	<u w="165036">www.mebest.pl</u>
+	<t>meble poznań</t>
+	<a bt="Abra  " at="">meble poznań</a>
+	<d></d>
+</l>
+<l>
+	<u w="149267">tokfrez.pl/ramiona-long-reach</u>
+	<t>long reach</t>
+	<a>long reach</a>
+	<d>long reach</d>
+</l>
+<l>
+	<u w="067570">autoline.com.pl/s/maszyny-budowlane-gruszka-do-betonu--c7tksyn1819.html</u>
+	<t>tania gruszka do betonu</t>
+	<a>tania gruszka do betonu</a>
+	<d></d>
+</l>
+<l>
+	<u w="067570">www.zwiedzanie-swiata.org.pl</u>
+	<t>linie lotnicze</t>
+	<a bt="Rayner linie lotnicze lub  " at="">linie lotnicze</a>
+	<d>linie lotnicze</d>
+</l>
+<l>
+	<u w="067570">www.forumowisko.pl/topic/128785-gdzie-dodac-darmowe-ogloszenie/</u>
+	<t>ogłoszenia motoryzacyjne</t>
+	<a bt="Darmowe  " at="  zakopane.">ogłoszenia motoryzacyjne</a>
+	<d></d>
+</l>
+<l>
+	<u w="149267">www.ksiegaogrodow.pl/ziolaogrodowe/3/jalowiec-pospolity</u>
+	<t>Jałowiec pospolity</t>
+	<a>Jałowiec pospolity</a>
+	<d></d>
+</l>
+<l>
+	<u w="067570">www.flowcom.pl</u>
+	<t>logo firmy</t>
+	<a bt="Krakuw kubki z  " at="">logo firmy</a>
+	<d>logo firmy</d>
+</l>
+<l>
+	<u w="951283">sport-market.pl/category/tenis-rakiety</u>
+	<t>Rakiety do tenisa | Sport-Market.pl</t>
+	<a>rakiety do tenisa ziemnego</a>
+	<d></d>
+</l>
+<l>
+	<u w="165036">www.egipt-egipt.pl</u>
+	<t>egipt przewodnik</t>
+	<a>egipt przewodnik</a>
+	<d>egipt</d>
+</l>
+<l>
+	<u w="149267">honda-civic.com.pl</u>
+	<t>civic opinie</t>
+	<a bt="Nowa honda " at=" ceny.">honda civic</a>
+	<d>honda civic</d>
+</l>
+<l>
+	<u w="067570">zielonewczasy.pl</u>
+	<t>Hotel nad morzem</t>
+	<a>hotel nad morzem</a>
+	<d></d>
+</l>
+<l>
+	<u w="256220">chatkamaluszka.pl</u>
+	<t>opieka nad dziećmi kraków</t>
+	<a>opieka nad dziećmi kraków</a>
+	<d>zostaw dziecko pod dobra opieka</d>
+</l>
+<l>
+	<u w="280744">coaching4executive.eu</u>
+	<t>Executive Coaching</t>
+	<a>Executive Coaching</a>
+	<d>Executive Coaching</d>
+</l>
+<l>
+	<u w="149267">fitshop24.pl/s,kreatyna,26.html</u>
+	<t>kreatyna</t>
+	<a>kreatyna</a>
+	<d>kreatyna</d>
+</l>
+<l>
+	<u w="256220">www.beta.szczecin.pl</u>
+	<t>Produkujemy meble na wymiar</t>
+	<a>meble na wymiar szczecin</a>
+	<d>Meble na wymiar w Szczecinie</d>
+</l>
+<l>
+	<u w="165036">fiskalne.com</u>
+	<t>kasy fiskalne</t>
+	<a bt="Małe i mobilne " at=" z kopią elektroniczną!.">kasy fiskalne</a>
+	<d>kasy fiskalne</d>
+</l>
+<l>
+	<u w="149267">amarita.pl</u>
+	<t>najpiękniejsza biżuteria</t>
+	<a>biżuteria swarovskiego</a>
+	<d>niesamowite kamienie swarovskiego</d>
+</l>
+<l>
+	<u w="951283">www.ankerservice.pl</u>
+	<t>agregat prądotwórczy</t>
+	<a>agregat prądotwórczy</a>
+	<d>agregat prądotwórczy</d>
+</l>
+<l>
+	<u w="825241">www.strefagrzania.pl</u>
+	<t>Ogrzewanie w Szczecinie</t>
+	<a>ogrzewanie szczecin</a>
+	<d>Ogrzewanie i technika grzewcza</d>
+</l>
+<l>
+	<u w="165036">senator.bialystok.pl/s,firma,1.html</u>
+	<t>szafy na wymiar białystok</t>
+	<a>szafy na wymiar białystok</a>
+	<d></d>
+</l>
+<l>
+	<u w="825712">netarteria.pl</u>
+	<t>hosting</t>
+	<a>hosting</a>
+	<d>hosting</d>
+</l>
+<l>
+	<u w="435068">www.centrumprojektow.eu/pojekty-domow-z-bali-drewnianych/</u>
+	<t>drewniane, gotowe projekty domów</t>
+	<a>drewniane, gotowe projekty domów</a>
+	<d></d>
+</l>
+<l>
+	<u w="778387">www.kowalstwo-sikora.pl</u>
+	<t>ogrodzenia w lublinie</t>
+	<a bt="Zobacz nasze " at=" Zapraszamy." s="b">ogrodzenia</a>
+	<d>ogrodzenia balustrady bramy</d>
+</l>
+<l>
+	<u w="527121">www.bukmacherka24.com</u>
+	<t>Bet365</t>
+	<a>Bet365</a>
+	<d>Doświadczony bukmacher online</d>
+</l>
+<l>
+	<u w="165036">www.ecocomfort.pl</u>
+	<t>rekuperacja</t>
+	<a s="b">rekuperacja</a>
+	<d>rekuperatory i wentylacja</d>
+</l>
+<l>
+	<u w="825712">zwierciadlo.pl/7-minut/psychotesty</u>
+	<t>psychotesty</t>
+	<a>psychotesty</a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">skokispadochronowe1.pl/</u>
+	<t>skoki spadochronowe</t>
+	<a>skoki spadochronowe</a>
+	<d>skoki spadochronowe</d>
+</l>
+<l>
+	<u w="149267">www.boral.pl</u>
+	<t>tekstolit </t>
+	<a bt="Energetyka również potrzebuje bardziej zaawansowanych materiałów takich jak " at=" aby móc się rozwijać i zwiększać efektywność pracy.">tekstolit </a>
+	<d>tekstolit </d>
+</l>
+<l>
+	<u w="825241">www.gilbt.com/</u>
+	<t>ekrany led</t>
+	<a>ekrany led</a>
+	<d></d>
+</l>
+<l>
+	<u w="825241">www.adiatek.net.pl</u>
+	<t>szorowarki do posadzek</t>
+	<a>szorowarki do posadzek</a>
+	<d>szorowarki do posadzek</d>
+</l>
+<l>
+	<u w="825241">www.sklepik-gsm.pl/index.php?produkt_zestaw_hf_samsung_gt-i8160_galaxy_ace_2</u>
+	<t>słuchawki samsung Galaxy Ace2</t>
+	<a>słuchawki samsung Galaxy Ace2</a>
+	<d>słuchawki samsung Galaxy Ace2</d>
+</l>
+<l>
+	<u w="825241">plytki-ceramiczne.yoyo.pl/</u>
+	<t>płytki</t>
+	<a>płytki</a>
+	<d>płytki</d>
+</l>
+<l>
+	<u w="149267">cafardini.pl</u>
+	<t>garnitur męski</t>
+	<a>garnitur męski</a>
+	<d>garnitur męski</d>
+</l>
+<l>
+	<u w="825241">www.beskidy-noclegi.pl</u>
+	<t>Noclegi w Beskidach</t>
+	<a s="b">Beskidy noclegi</a>
+	<d>Beskidy</d>
+</l>
+<l>
+	<u w="256220">www.flowcom.pl</u>
+	<t>strategie marketingowe</t>
+	<a>strategie marketingowe</a>
+	<d>strategie marketingowe</d>
+</l>
+<l>
+	<u w="435068">www.kredyty-konsolidacyjne.portal-bankowy.pl/</u>
+	<t>Kredyt konsolidacyjny</t>
+	<a>Kredyty konsolidacyjne</a>
+	<d></d>
+</l>
+<l>
+	<u w="435068">pl.loccitane.com/werbena,36,2,11554,0.htm</u>
+	<t>werbena</t>
+	<a bt=" " at=" zabiegi.">werbena</a>
+	<d>werbena</d>
+</l>
+<l>
+	<u w="435068;068199">www.podlogi-kopp.pl</u>
+	<t>panele, podłogi z drewna</t>
+	<a>panele, podłogi z drewna</a>
+	<d></d>
+</l>
+<l>
+	<u w="280744">www.izigsm.pl/index.php?sklep,gsm/bateria-do-nokia.html</u>
+	<t>bateria nokia 5800</t>
+	<a>bateria nokia 5800</a>
+	<d>bateria nokia 5800</d>
+</l>
+<l>
+	<u w="280744">www.dentis-stom.pl</u>
+	<t>dentysta warszawa</t>
+	<a s="b">dentysta warszawa</a>
+	<d>dentysta warszawa</d>
+</l>
+<l>
+	<u w="280744">www.katalogujemy.net/sport-i-turystyka/wpis49/hel-portal-turystyczny.html</u>
+	<t>Hel</t>
+	<a>Hel</a>
+	<d>Hel</d>
+</l>
+<l>
+	<u w="951283">pozycjonowanielodz.com</u>
+	<t>pozycjonowanie łódź</t>
+	<a>pozycjonowanie łódź</a>
+	<d>pozycjonowanie łódź</d>
+</l>
+<l>
+	<u w="280744">www.agat.eu</u>
+	<t>transport miedzynarodowy</t>
+	<a>przewozy autokarowe międzynarodowe</a>
+	<d>caly swiat autokarem</d>
+</l>
+<l>
+	<u w="825712">www.ro-man.pl</u>
+	<t>Detektyw w Krakowie - Rzetelnie</t>
+	<a>detektyw</a>
+	<d>Zdrada, podsluchy, detektyw</d>
+</l>
+<l>
+	<u w="149267">jaguar.pl</u>
+	<t>Jaguar - innowacja w luksusie.</t>
+	<a>jaguar ceny</a>
+	<d></d>
+</l>
+<l>
+	<u w="909905">www.anbi.com.pl</u>
+	<t>obróbka skrawaniem</t>
+	<a>obróbka skrawaniem</a>
+	<d></d>
+</l>
+<l>
+	<u w="825241">www.artigopublico.com/artigos/seja-livre-aprenda-ingles-e-conquiste-o-mundo</u>
+	<t>blc4u vale a pena</t>
+	<a>blc4u vale a pena</a>
+	<d>blc4u vale a pena</d>
+</l>
+<l>
+	<u w="825241">www.projekty-garazy.pl/</u>
+	<t>projekty garaży</t>
+	<a>projekty garaży</a>
+	<d></d>
+</l>
+<l>
+	<u w="951283">skoda-octavia.com.pl</u>
+	<t>silnik skoda</t>
+	<a>skoda octavia</a>
+	<d>skoda octavia</d>
+</l>
+<l>
+	<u w="825241">biura-podrozy.waw.pl</u>
+	<t>turystyczne biuro</t>
+	<a>Biura podróży</a>
+	<d>oferty biur</d>
+</l>
+<l>
+	<u w="280744">produktymleczne.swiezyoddech.eu/?p=333</u>
+	<t>zatrucie pokarmowe</t>
+	<a>zatrucie pokarmowe</a>
+	<d>zatrucie pokarmowe</d>
+</l>
+<l>
+	<u w="280744">ubezpieczenie-online.com.pl/artykul/kalkulator-oc-aviva-commercial-union/</u>
+	<t>aviva ubezpieczenia</t>
+	<a>aviva ubezpieczenia</a>
+	<d d="ubezpieczenie online">aviva ubezpieczenia</d>
+</l>
+<l>
+	<u w="527121">www.hafty.pl/</u>
+	<t>sitodruk</t>
+	<a>sitodruk</a>
+	<d>sitodruk</d>
+</l>
+<l>
+	<u w="527121">finecms.pl/244/277/strony-www.html</u>
+	<t>tworzenie stron www</t>
+	<a bt="Grafika  " at="  gliwice.">tworzenie stron www</a>
+	<d>tworzenie stron www</d>
+</l>
+<l>
+	<u w="527121">www.importuj-zarabiaj.pl/</u>
+	<t>Jak importować z Chin</t>
+	<a>Jak importować z Chin</a>
+	<d>Jak importować z Chin</d>
+</l>
+<l>
+	<u w="825241">www.deante.pl</u>
+	<t>zlewozmywaki</t>
+	<a>zlewozmywaki</a>
+	<d>Zlewozmywaki Deante</d>
+</l>
+<l>
+	<u w="280744">mojagrecja.wordpress.com/</u>
+	<t>wczasy w grecji</t>
+	<a>grecja przewodnik</a>
+	<d>pobyt grecja</d>
+</l>
+<l>
+	<u w="527121">www.sylwester.travel.pl/</u>
+	<t>Sylwester</t>
+	<a>Sylwester</a>
+	<d>Sylwester</d>
+</l>
+<l>
+	<u w="527121">yanek.org</u>
+	<t>Stop Mandatom! </t>
+	<a>legalny antyradar</a>
+	<d>yanek.org</d>
+</l>
+<l>
+	<u w="909905">www.marbo.pl/</u>
+	<t>Plecaki | MARBO</t>
+	<a>producent plecaków</a>
+	<d>Plecaki MARBO.pl</d>
+</l>
+<l>
+	<u w="909905">www.konstal.info</u>
+	<t>Piece</t>
+	<a>Piece</a>
+	<d>Kotły oraz piece</d>
+</l>
+<l>
+	<u w="527121">www.unica.com.pl</u>
+	<t>Unica</t>
+	<a>uzdatnianie wody</a>
+	<d>Uzdatnianie</d>
+</l>
+<l>
+	<u w="527121">gosopot.pl</u>
+	<t>turystyka, noclegi, miasto</t>
+	<a>Sopot noclegi</a>
+	<d>turystyka, noclegi, miasto</d>
+</l>
+<l>
+	<u w="527121">www.bravebrain.pl</u>
+	<t>strategia marketingowa</t>
+	<a>strategia marketingowa</a>
+	<d></d>
+</l>
+<l>
+	<u w="527121">www.typersi.org/bwin.php</u>
+	<t>Bwin</t>
+	<a>www.typersi.org/bwin.php</a>
+	<d>Niezwykle dobra oferta bukmachera</d>
+</l>
+<l>
+	<u w="527121">www.wicie.net.pl</u>
+	<t>noclegi w Wiciu</t>
+	<a bt="Przedsta " at=" l handlowy białystok.">Wicie noclegi</a>
+	<d>baza noclegowa Wicia</d>
+</l>
+<l>
+	<u w="527121">housesoftheholy.pl/</u>
+	<t>Houses Of The Holy</t>
+	<a>Presence</a>
+	<d>Forum fanów Led Zeppelin</d>
+</l>
+<l>
+	<u w="909905">www.ro-man.pl</u>
+	<t>Nieuczciwa konkurencja Zly pracownik</t>
+	<a>prywatny detektyw</a>
+	<d>Detektyw Leszek Suchecki </d>
+</l>
+<l>
+	<u w="909905">www.kredyty-gotowkowe.portal-bankowy.pl/</u>
+	<t>Kredyt gotówkowy</t>
+	<a bt=" " at="  forum.">Kredyty gotówkowe</a>
+	<d>Kredyty gotówkowe</d>
+</l>
+<l>
+	<u w="951283">in.ter.net.br/turismo/guia/cinco-motivos-para-fazer-ingles-online/</u>
+	<t>opinioes blc4u</t>
+	<a>opinioes blc4u</a>
+	<d>opinioes blc4u</d>
+</l>
+<l>
+	<u w="280744">wojtekprokopczuk.pl</u>
+	<t>Oficjalna strona fotografa Wojciecha Prokopczuka</t>
+	<a>wojtek prokopczuk</a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">www.tatarzadzi.pl</u>
+	<t>praca</t>
+	<a bt="Dodatkowa  " at="  warszawa.">praca</a>
+	<d>praca</d>
+</l>
+<l>
+	<u w="256220">www.studioberlinga.pl/oferta/</u>
+	<t>zdjęcia ślubne białystok</t>
+	<a>zdjęcia ślubne białystok</a>
+	<d>zdjęcia ślubne białystok</d>
+</l>
+<l>
+	<u w="280744">karolklosowski.com/</u>
+	<t>prawnik szczecin</t>
+	<a>prawnik szczecin</a>
+	<d>prawnik szczecin</d>
+</l>
+<l>
+	<u w="778387">www.sunandsnow.pl/apartamenty-wladyslawowo</u>
+	<t>jastrzębia góra nocleg</t>
+	<a>jastrzębia góra nocleg</a>
+	<d></d>
+</l>
+<l>
+	<u w="280744">www.piguskrendu.lt/pigus-skrydziai/LT/BRS/skrydziai-i-bristoli.html</u>
+	<t>pig&#363;s l&#279;ktuv&#371; bilietai Bristol&#303;</t>
+	<a>Skrydžiai Bristolis</a>
+	<d>bilietai &#303; Bristol&#303;</d>
+</l>
+<l>
+	<u w="280744">www.najlepsze-odzywki.com.pl</u>
+	<t>Odżywki dla Aktywnych</t>
+	<a>Sklep z odżywkami</a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">www.stoly-bilardowe.net</u>
+	<t>Bilardowe stoły</t>
+	<a>Stoły do bilarda</a>
+	<d>z płytą MDF lub kamienną</d>
+</l>
+<l>
+	<u w="951283">grecja1.pl</u>
+	<t>oferty</t>
+	<a>grecja ceny</a>
+	<d>wczasy</d>
+</l>
+<l>
+	<u w="951283">www.dawos.net.pl/wynajem_sprzetu_budowlanego.php?op=pokaz&amp;id=79</u>
+	<t>Wypożyczalnia młotów udarowych</t>
+	<a>młoty udarowe Grodzisk Mazowiecki</a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">www.wisla.com.pl</u>
+	<t>wisła</t>
+	<a>wisła</a>
+	<d>wisła</d>
+</l>
+<l>
+	<u w="435068">galeriakamieni.pl</u>
+	<t>marmur łódź</t>
+	<a>marmur łódź</a>
+	<d>marmur łódź</d>
+</l>
+<l>
+	<u w="435068">www.eltech-systemy.pl/</u>
+	<t>kontrola dostępu ruda śląska</t>
+	<a>kontrola dostępu ruda śląska</a>
+	<d>kontrola dostępu ruda śląska</d>
+</l>
+<l>
+	<u w="951283">oxpress.pl/branza-filmowa-na-social-media/</u>
+	<t>Reklama filmu na facebooku</t>
+	<a>Reklama filmu na facebooku</a>
+	<d>Reklama filmu na facebooku</d>
+</l>
+<l>
+	<u w="149267">www.sunandsnow.pl/apartamenty-krynica-morska</u>
+	<t>apartamenty krynica morska</t>
+	<a>apartamenty krynica morska</a>
+	<d></d>
+</l>
+<l>
+	<u w="256220">www.bpsc.com.pl/</u>
+	<t>impuls</t>
+	<a>impuls</a>
+	<d>impuls</d>
+</l>
+<l>
+	<u w="149267">notice-boards.larslaj.co.uk</u>
+	<t>wooden playground</t>
+	<a>wooden playground</a>
+	<d>wooden playground</d>
+</l>
+<l>
+	<u w="256220">esmaland.com</u>
+	<t>ikea sklep</t>
+	<a>ikea sklep</a>
+	<d>ikea sklep</d>
+</l>
+<l>
+	<u w="256220">www.leomark.pl</u>
+	<t>Magik zestaw</t>
+	<a>Magik zestaw</a>
+	<d>Zabawki dla dzieci</d>
+</l>
+<l>
+	<u w="256220">pdfcast.org/pdf/sotaque-ingles-que-transcende-fronteiras</u>
+	<t>London Institute of English e bom</t>
+	<a>London Institute of English e bom</a>
+	<d>London Institute of English e bom</d>
+</l>
+<l>
+	<u w="256220">www.eccofloor.pl</u>
+	<t>deski z kompozytu</t>
+	<a>deski z kompozytu</a>
+	<d>deski z kompozytu</d>
+</l>
+<l>
+	<u w="778387">aprenderinglese.blog.com.br/</u>
+	<t>London Institute of English e bom</t>
+	<a>London Institute of English e bom</a>
+	<d>London Institute of English e bom</d>
+</l>
+<l>
+	<u w="909905">agro-ranczo.com</u>
+	<t>Agro Ranczo - rajdy konne, obozy jeździeckie</t>
+	<a>rajdy konne</a>
+	<d>Agro Ranczo - rajdy konne, obozy</d>
+</l>
+<l>
+	<u w="778387">www.smsapi.pl</u>
+	<t>mobile marketing</t>
+	<a>mobile marketing</a>
+	<d d="wysylki sms">mobile marketing</d>
+</l>
+<l>
+	<u w="778387">danczar.pl</u>
+	<t>producent opakowań tekturowych</t>
+	<a>producent opakowań tekturowych</a>
+	<d>producent opakowań tekturowych</d>
+</l>
+<l>
+	<u w="778387">www.parasfera.pl/</u>
+	<t>tarot wróżenie</t>
+	<a>tarot wróżenie</a>
+	<d>tarot wróżenie</d>
+</l>
+<l>
+	<u w="825712">www.infrapanel.pl</u>
+	<t>ogrzewanie</t>
+	<a>ogrzewanie</a>
+	<d>Sposób na tanie ogrzewanie domu</d>
+</l>
+<l>
+	<u w="778387">ilazienki.pl/plytki-lazienkowe,c_1</u>
+	<t>płytki łazienkowe</t>
+	<a>płytki łazienkowe</a>
+	<d>płytki łazienkowe</d>
+</l>
+<l>
+	<u w="067570">sport-market.pl/category/sporty-druzynowe-pilka-nozna-pilki</u>
+	<t>Piłki | Sport-Market.pl</t>
+	<a>piłki do piłki nożnej</a>
+	<d></d>
+</l>
+<l>
+	<u w="067570">www.tworzenie-stron.waw.pl/</u>
+	<t>Strony WWW</t>
+	<a>Strony WWW</a>
+	<d></d>
+</l>
+<l>
+	<u w="951283">pracuj-za-granica.blog.onet.pl</u>
+	<t>oferty pracy w Elblągu</t>
+	<a>praca za granica</a>
+	<d>ogłoszenia Elbląg i okolice</d>
+</l>
+<l>
+	<u w="067570">www.katalog-projektow.pl/category/projekty-domow-nowoczesnych</u>
+	<t>Nowoczesne projekty</t>
+	<a>projekty domów nowoczesnych</a>
+	<d></d>
+</l>
+<l>
+	<u w="951283">www.pracoskop.info</u>
+	<t>Szukamy pracy dla Ciebie</t>
+	<a>praca online</a>
+	<d></d>
+</l>
+<l>
+	<u w="067570">www.drukujtanio.net</u>
+	<t>Navi Concept</t>
+	<a>Papier firmowy</a>
+	<d>Drukarnia Łódź</d>
+</l>
+<l>
+	<u w="951283">uroda.e-popularni.net/?p=310</u>
+	<t>alergia</t>
+	<a>alergia</a>
+	<d>alergia</d>
+</l>
+<l>
+	<u w="527121">zdrowe.e-zycie.eu/?p=106</u>
+	<t>groprinosin</t>
+	<a>groprinosin</a>
+	<d>groprinosin</d>
+</l>
+<l>
+	<u w="067570">www.adwokat-wroclaw.org</u>
+	<t>Adwokat Wrocław</t>
+	<a>Adwokat Wrocław</a>
+	<d>Adwokat Wrocław</d>
+</l>
+<l>
+	<u w="067570">www.sklepik-gsm.pl/index.php?produkt_samsung_gt-i8350_omnia_w</u>
+	<t>rysik samsung omnia w</t>
+	<a>rysik samsung omnia w</a>
+	<d>rysik samsung omnia w</d>
+</l>
+<l>
+	<u w="067570">www.jastrzebia.org.pl</u>
+	<t>Zapraszamy na morze</t>
+	<a>kwatery jastrzębia góra</a>
+	<d>Bo nad bałtykiem fajnie jest</d>
+</l>
+<l>
+	<u w="951283">www.elpro.com.pl/metkownice/</u>
+	<t>metkownice sklep</t>
+	<a bt="Profesjonalne " at=" do sklepów.">metkownice sklep</a>
+	<d>metkownice sklep</d>
+</l>
+<l>
+	<u w="280744">www.perfekt-polska.com.pl/</u>
+	<t>jedzenie na telefon bielsko</t>
+	<a>jedzenie na telefon bielsko</a>
+	<d>jedzenie na telefon bielsko</d>
+</l>
+<l>
+	<u w="778387">www.arret.pl</u>
+	<t>www.arret.pl/gabloty.html</t>
+	<a bt="Skuteczna reklama musi być  efektowna, merytoryczna i dotrzeć do jak największej liczby odbiorców " at=" to nośnik, który umożliwia właśnie dotarcie do dużej liczby potencjalnych klientów jednocześnie.">gablota reklamowa</a>
+	<d>gablota reklamowa</d>
+</l>
+<l>
+	<u w="778387">logiker.pl/kategoria/52-ukladanki-logiczne.html?all=1</u>
+	<t>układanki logiczne</t>
+	<a>układanki logiczne</a>
+	<d>Logiker.pl</d>
+</l>
+<l>
+	<u w="778387">www.wisla.com.pl</u>
+	<t>wisla</t>
+	<a bt=" " at="  lepiej mierzeja wiślana piaski." s="b">wisla</a>
+	<d>wisla</d>
+</l>
+<l>
+	<u w="778387">www.redstar.com.pl/</u>
+	<t>product placement</t>
+	<a>product placement</a>
+	<d>product placement</d>
+</l>
+<l>
+	<u w="165036">www.sklepik-gsm.pl/index.php?produkt_zestaw_glosnomowiacy__</u>
+	<t>zestaw głośnomówiący nokia</t>
+	<a>zestaw głośnomówiący nokia</a>
+	<d>zestaw głośnomówiący nokia</d>
+</l>
+<l>
+	<u w="435068">www.smsapi.pl</u>
+	<t>konkursy sms</t>
+	<a>konkursy sms</a>
+	<d d="konkursy premium">konkursy sms</d>
+</l>
+<l>
+	<u w="435068">art-deco.info.pl</u>
+	<t>dekoracja okien poznan</t>
+	<a>dekoracja okien poznan</a>
+	<d>dekoracja okien poznan</d>
+</l>
+<l>
+	<u w="435068">www.reflexii.waw.pl/zaluzje/</u>
+	<t>żaluzje warszawa</t>
+	<a bt=" " at=" tychy.">żaluzje warszawa</a>
+	<d>żaluzje warszawa</d>
+</l>
+<l>
+	<u w="435068">www.armonia.pl/cat-pol-1231532809-Belldeco.html</u>
+	<t>wystrój wnętrz</t>
+	<a>Belldeco</a>
+	<d>Zapraszamy do Galerii</d>
+</l>
+<l>
+	<u w="435068">www.meblotop.com.pl</u>
+	<t>Meble gabinetowe Warszawa</t>
+	<a>Meble gabinetowe Warszawa</a>
+	<d>Meble do gabinetu</d>
+</l>
+<l>
+	<u w="435068">www.fotton.eu/</u>
+	<t>baterie słoneczne</t>
+	<a>baterie słoneczne</a>
+	<d>baterie słoneczne</d>
+</l>
+<l>
+	<u w="435068">deante.pl</u>
+	<t>zlewozmywaki</t>
+	<a>zlewozmywaki</a>
+	<d>Zlewozmywaki</d>
+</l>
+<l>
+	<u w="256220">testosterone.pl</u>
+	<t>odżywki dla sportowców</t>
+	<a>odżywki dla sportowców</a>
+	<d>odżywki dla sportowców</d>
+</l>
+<l>
+	<u w="068199">www.hegen.com.pl</u>
+	<t>Sprzęt sportowy</t>
+	<a>Sklep sportowy</a>
+	<d>Sklep sportowy Hegen - sprzęt</d>
+</l>
+<l>
+	<u w="165036">www.kart-map.pl/index.php?option=com_content&amp;view=article&amp;id=35&amp;Itemid=74&amp;lang=pl</u>
+	<t>Lakiernia proszkowa. Malowanie proszkowe</t>
+	<a>lakiernia proszkowa</a>
+	<d></d>
+</l>
+<l>
+	<u w="256220">www.nasza-wizytowka.pl/firmy,baza,katalog</u>
+	<t>firmy baza</t>
+	<a>firmy baza</a>
+	<d>firmy baza</d>
+</l>
+<l>
+	<u w="825712">www.expom.com.pl/PL/indexpl.html</u>
+	<t>włóki łąkowe</t>
+	<a>włóki łąkowe</a>
+	<d></d>
+</l>
+<l>
+	<u w="149267">www.ankerservice.pl</u>
+	<t>serwis elektronarzędzi</t>
+	<a>serwis elektronarzędzi</a>
+	<d>serwis elektronarzędzi</d>
+</l>
+<l>
+	<u w="825241">filmolandia.net.pl</u>
+	<t>Filmolandia Tylko u nas Filmy Online Bez Limitu</t>
+	<a>filmy</a>
+	<d>Oglądaj za darmo najnowsze filmy</d>
+</l>
+<l>
+	<u w="778387">deante.pl</u>
+	<t>Baterie łazienkowe</t>
+	<a>baterie łazienkowe</a>
+	<d>Baterie łazienkowe</d>
+</l>
+<l>
+	<u w="068199">chronoczy.boiron.pl/higiena-oczu/choroby-i-schorzenia-oczu/sprawdz-jak-latwo-o-podraznienie-oczu/</u>
+	<t>podrażnienie oka</t>
+	<a bt="Nawracające " at=" wskazówki.">podrażnienie oka</a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">regaly-magazynowe.na.allegro.pl/</u>
+	<t>Najtańsze Regały Magazynowe </t>
+	<a>regały metalowe </a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">pl.loccitane.com/mas%C5%82o-shea,36,2,3498,0.htm</u>
+	<t>masło karite</t>
+	<a>masło karite</a>
+	<d>masło karite</d>
+</l>
+<l>
+	<u w="068199">www.agat.eu</u>
+	<t>bilety autokarowe online</t>
+	<a>bilety autokarowe online</a>
+	<d>tanie bilety online</d>
+</l>
+<l>
+	<u w="068199">www.e-regaly.pl</u>
+	<t>REGAŁY MAGAZYNOWE - e-regaly.pl</t>
+	<a>regały magazynowe</a>
+	<d></d>
+</l>
+<l>
+	<u w="068199">www.agat.eu</u>
+	<t>tanie bilety autokarem</t>
+	<a>bilety autokarowe</a>
+	<d>sprzedaz biletow online</d>
+</l>
+<l>
+	<u w="165036">www.kamilczajkowski.pl</u>
+	<t>fotograf Lublin</t>
+	<a>fotograf Lublin</a>
+	<d>fotograf Lublin</d>
+</l>
+</links>

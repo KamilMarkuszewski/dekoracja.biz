@@ -1,0 +1,123 @@
+<div align="Center" style="color: bbb;">
+<?php
+	$dir = "dek";
+	$dozw2=array('none','dek','buk', 'fir', 'of', 'cer', 'nasze', 'kos', 'aut', 'kosz', 'cuk', 'zap');
+	if (isset($_GET['dir'])) $dir=$_GET['dir']; else $dir='none';
+	if (!in_array($dir,$dozw2)) $dir=$dozw2[0];
+?>
+
+<b>
+<a href="index.php?pokaz=galeria&dir=dek"  style="padding: 5;"> <?php if($dir=="dek") echo "<font style='color: #555;'>"; ?> Dekoracje sal <?php if($dir=="dek") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=kos"  style="padding: 5;"> <?php if($dir=="kos") echo "<font style='color: #555;'>"; ?> Dekoracje ko¶cio³ów <?php if($dir=="kos") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=aut"  style="padding: 5;"> <?php if($dir=="aut") echo "<font style='color: #555;'>"; ?> Dekoracje aut weselnych <?php if($dir=="aut") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=kosz"  style="padding: 5;"> <?php if($dir=="kosz") echo "<font style='color: #555;'>"; ?> Kosze dla rodziców <?php if($dir=="kosz") echo "</font>"; ?> </a> 
+
+<br> 
+
+<a href="index.php?pokaz=galeria&dir=fir"  style="padding: 5;"> <?php if($dir=="fir") echo "<font style='color: #555;'>"; ?> Dekoracje balonowe i firmowe <?php if($dir=="fir") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=cuk" style="padding: 5;" > <?php if($dir=="cuk") echo "<font style='color: #555;'>"; ?> Bukiety z cukierków <?php if($dir=="cuk") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=zap" style="padding: 5;" > <?php if($dir=="zap") echo "<font style='color: #555;'>"; ?> Zaproszenia, winietki, zawieszki <?php if($dir=="zap") echo "</font>"; ?> </a> 
+<br> 
+
+<a href="index.php?pokaz=galeria&dir=cer"  style="padding: 5;"> <?php if($dir=="cer") echo "<font style='color: #555;'>"; ?> Certyfikaty <?php if($dir=="cer") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=nasze"  style="padding: 5;"> <?php if($dir=="nasze") echo "<font style='color: #555;'>"; ?> Nasze fotki <?php if($dir=="nasze") echo "</font>"; ?> </a> | 
+<a href="index.php?pokaz=galeria&dir=atr"  style="padding: 5;"> <?php if($dir=="atr") echo "<font style='color: #555;'>"; ?> Atrakcje ¦lubne <?php if($dir=="atr") echo "</font>"; ?> </a>
+</b>
+
+
+<br><br><br>
+
+<?php
+
+if($dir=="none"){
+	echo '<table class="lista">';
+	
+	echo '<tr>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=dek" > <img src="images/design/galeria/dek/'.rand(1,6).'.jpg"><br>Dekoracje sal </a> </td>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=kos" > <img src="images/design/galeria/kos/'.rand(1,1).'.jpg"><br>Dekoracje ko¶cio³ów </a></td>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=aut" > <img src="images/design/galeria/aut/'.rand(1,1).'.jpg"><br>Dekoracje aut weselnych</a></td>';
+	echo '</tr>';
+	
+	echo '<tr>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=kosz" > <img src="images/design/galeria/kosz/'.rand(1,1).'.jpg"><br>Kosze dla Rodziców</a></td>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=fir" > <img src="images/design/galeria/fir/'.rand(1,7).'.jpg"><br>Dekoracje balonowe</a> </td>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=cuk" > <img src="images/design/galeria/cuk/'.rand(1,1).'.jpg"><br>Bukiety z cukierków</a></td>';
+	echo '</tr>';
+	
+	echo '<tr>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=zap" > <img src="images/design/galeria/zap/'.rand(1,3).'.jpg"><br>Zaproszenia </a></td>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=cer" > <img src="images/design/galeria/cer/'.rand(1,4).'.jpg"><br>Certyfikaty </a> </td>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=nasze" > <img src="images/design/galeria/nasze/'.rand(1,3).'.jpg"><br>Nasze fotki </a> </td>';
+	echo '</tr>';
+	
+		
+	echo '<tr>';
+	echo '<td><a href="index.php?pokaz=galeria&dir=atr" > <img src="images/design/galeria/atr/'.rand(1,3).'.jpg"><br>Atrakcje Œlubne </a></td>';
+	echo '</tr>';
+	
+	echo '</table></tr>';
+	
+	
+	
+} else{
+	$kat = count( glob( 'images/'.$dir.'/full/*' ) );
+	for($i=$kat;$i!=0;--$i){
+			echo(" <a href='images/".$dir."/full/");
+			echo($i);
+			echo(".jpg' class='highslide' onclick='return hs.expand(this)'> <img src='images/".$dir."/");
+			echo($i);
+			echo(".jpg' alt='Dekoracje Wena' title='Kliknij aby powiêkszyæ' height='98' width='130' /></a> ");
+			 
+	}
+}
+
+
+
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+                
+                
+                
+                <div class='highslide-caption' id='the-caption'>
+    <a href="#" onclick="return hs.previous(this)" class="control" style="float:left; display: block">
+            Poprzednie
+            <br/>
+            <small style="font-weight: normal; text-transform: none">Lewy kursor</small>
+    </a>
+
+        <a href="#" onclick="return hs.next(this)" class="control" 
+                        style="float:left; display: block; text-align: right; margin-left: 50px">
+                Nastêpne
+                <br/>
+                <small style="font-weight: normal; text-transform: none">Prawy kursor</small>
+        </a>
+    <a href="#" onclick="return hs.close(this)" class="control">Zamknij</a>
+    <a href="#" onclick="return false" class="highslide-move control">Przenie¶</a>
+    <div style="clear:both"></div>
+
+</div>
